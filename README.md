@@ -4,11 +4,11 @@ Collection of Python programs, algorithms, and data structures developed while p
 
 This repository serves as a practical showcase of core programming logic, problem-solving skills, and algorithm implementation without reliance on external libraries.
 
-##Overview
+## Overview
 
 The repository includes solutions to typical examination tasks, focusing on analytical thinking, data processing, and optimizing algorithmic complexity. It demonstrates competence in structural and object-oriented programming in Python.
 
-##Core Concepts Covered
+## Core Concepts Covered
 
 * **File I/O & Data Parsing:** Efficiently reading, cleaning, and processing structural text data (`.txt`, `.csv`) provided in exam datasets.
 * **Algorithmic Problem Solving:** Implementation of classic algorithms (searching, sorting, number theory, and string manipulation).
